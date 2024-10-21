@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "457574205521",
+    "project_id": "fireapp-43bf2",
+    "storage_bucket": "fireapp-43bf2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:457574205521:android:281b7941315e2fa237d070",
+        "android_client_info": {
+          "package_name": "com.example.logeofirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnABkJh3v3Q8C9QbMjImWnxR0T49ljEbk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
